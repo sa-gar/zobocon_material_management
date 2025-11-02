@@ -866,601 +866,440 @@
       "contact": "+91-YYYYYYYYY",
       "project_type": "PAINTING",
       "materials": {
-       "trucare_suprema_interior_primer___wt": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "trucare_exterior_wall_primer_suprema": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "trucare_acrylic_wall_putty": {
-      "stock": 11,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "ap_royale_matt_luxury_emulsion": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "royale_wall_basecoat": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "ap_filling_putty_(coarse)": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "asian_trucare_wall_putty_pac_40kg": {
-      "stock": 21,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "apex_suprema_(asian_exterior_emulsion_paint)": {
-      "stock": 4,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "nippon_maxx_interior_primer": {
-      "stock": 12,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "nippon_silky_wall_putty_professional": {
-      "stock": 28,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "nipon_paint_white_5l": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "nippon_paints_b4_2l": {
-      "stock": 8,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "surya_cem_white_cement": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "birla_exterior_primer_e10": {
-      "stock": 3,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "birla_exterior_primer_e30": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    },
-    "zinc_primer_yellow": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "materials",
-      "rate": 0.0,
-      "code": ""
-    }
-      },
-      "tools and accessories": {
-        "putty_blade_4inch": {
-          "stock": 16,
+        "trucare_suprema_interior_primer___wt": {
+          "stock": 0,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 8,
-          "category": "tools and accessories",
-          "rate": 6.2894,
-          "code": "HT-PB-04"
-        },
-        "scaffolding": {
-          "stock": 16,
-          "used": 0,
-          "unit": "sets",
           "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 5000,
-          "code": "EQ-SC-001"
-        },
-        "Putty_Blade_4_inch": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 6.29,
+          "category": "materials",
+          "rate": 0.0,
           "code": ""
         },
-        "Putty_Blade_8_inch": {
+        "trucare_exterior_wall_primer_suprema": {
           "stock": 0,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 16.23,
+          "category": "materials",
+          "rate": 0.0,
           "code": ""
         },
-        "Putty_blade_20_inch": {
+        "trucare_acrylic_wall_putty": {
+          "stock": 11,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "ap_royale_matt_luxury_emulsion": {
           "stock": 0,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "royale_wall_basecoat": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "ap_filling_putty_(coarse)": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "asian_trucare_wall_putty_pac_40kg": {
+          "stock": 21,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "apex_suprema_(asian_exterior_emulsion_paint)": {
+          "stock": 4,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "nippon_maxx_interior_primer": {
+          "stock": 12,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "nippon_silky_wall_putty_professional": {
+          "stock": 28,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "nipon_paint_white_5l": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "nippon_paints_b4_2l": {
+          "stock": 8,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "surya_cem_white_cement": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "birla_exterior_primer_e10": {
+          "stock": 3,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "birla_exterior_primer_e30": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        },
+        "zinc_primer_yellow": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0,
+          "code": ""
+        }
+      },
+      "tools and accessories": {
+        "helmets": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
           "rate": 0.0,
           "code": ""
         },
-        "Gurmala": {
-          "stock": 0,
+        "dhothi": {
+          "stock": 3,
           "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 57.03,
-          "code": ""
-        },
-        "Funnel": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
           "rate": 0.0,
           "code": ""
         },
-        "Masking_tape_1_inch": {
-          "stock": 0,
+        "safety_belts": {
+          "stock": 2,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 32.45,
+          "rate": 0.0,
           "code": ""
         },
-        "Masking_tape_2_inch": {
-          "stock": 0,
+        "exterior_roller_9_inch": {
+          "stock": 6,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 64.9,
+          "rate": 0.0,
           "code": ""
         },
-        "Masking_tape_4_inch": {
-          "stock": 0,
+        "interior_9_inch_roller": {
+          "stock": 6,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 153.4,
+          "rate": 0.0,
           "code": ""
         },
-        "Sand_paper_Grit_220_square_type": {
-          "stock": 0,
+        "trolley": {
+          "stock": 1,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 17.42,
+          "rate": 0.0,
           "code": ""
         },
-        "Sand_paper_Grit_320_square_type": {
-          "stock": 0,
+        "almera": {
+          "stock": 2,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 17.42,
+          "rate": 0.0,
           "code": ""
         },
-        "Round_sand_paper_for_machine_220": {
-          "stock": 0,
+        "brush_4_inch": {
+          "stock": 2,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 18.998,
+          "rate": 0.0,
           "code": ""
         },
-        "Round_sand_paper_for_machine_320": {
-          "stock": 0,
+        "scaffolding_table": {
+          "stock": 6,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 18.998,
+          "rate": 0.0,
           "code": ""
         },
-        "Sanding_pad": {
-          "stock": 0,
+        "platforms": {
+          "stock": 12,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 159.99,
+          "rate": 0.0,
+          "code": ""
+        },
+        "wheels": {
+          "stock": 24,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0,
+          "code": ""
+        },
+        "3_core_cable": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0,
           "code": ""
         },
         "tape_dispenser": {
-          "stock": 0,
+          "stock": 1,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 161.66,
+          "rate": 0.0,
           "code": ""
         },
-        "6_inch_int_Roller": {
-          "stock": 0,
+        "led_light_200_w": {
+          "stock": 7,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 76.7,
+          "rate": 0.0,
           "code": ""
         },
-        "9_inch_int_Roller": {
-          "stock": 0,
+        "goggles": {
+          "stock": 10,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 88.5,
+          "rate": 0.0,
           "code": ""
         },
-        "9_inch_ext_Roller": {
-          "stock": 0,
+        "led_stand_holder": {
+          "stock": 2,
           "used": 0,
-          "unit": "",
+          "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 100.3,
+          "rate": 0.0,
+          "code": ""
+        },
+        "stool": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0,
+          "code": ""
+        },
+        "gloves": {
+          "stock": 3,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0,
+          "code": ""
+        },
+        "groves": {
+          "stock": 3,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0,
+          "code": ""
+        },
+        "airless_paint_sprayer_xtaps850": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0,
           "code": ""
         }
       },
       "machines": {
-    "undulation_device": {
-      "stock": 2,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "machines",
-      "rate": 0.0,
-      "code": ""
+        "undulation_device": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0,
+          "code": ""
+        },
+        "laser_level_device": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0,
+          "code": ""
+        },
+        "graco_mark_vii,_dc_motor_machine": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0,
+          "code": ""
+        },
+        "graco_oil": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0,
+          "code": ""
+        },
+        "hydraulic_oil_201": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0,
+          "code": ""
+        },
+        "putty_mixer_machine_bosch_new": {
+          "stock": 4,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0,
+          "code": ""
+        },
+        "paint_spry_machine_graco": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0,
+          "code": ""
+        },
+        "graco_fine_putty_machine": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0,
+          "code": ""
+        },
+        "sanding_machine": {
+          "stock": 8,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0,
+          "code": ""
+        }
+      }
     },
-    "laser_level_device": {
-      "stock": 1,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "machines",
-      "rate": 0.0,
-      "code": ""
+    "park_heights": {
+      "location": "Sy No, Adarsh Park Heights, 1778, Hobli, Gunjur Village, Varthur, Bengaluru, Karnataka 560087",
+      "site_manager": "elango",
+      "contact": "8951383110",
+      "project_type": "painting work",
+      "materials": {},
+      "tools and accessories": {},
+      "machines": {}
     },
-    "graco_mark_vii,_dc_motor_machine": {
-      "stock": 1,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "machines",
-      "rate": 0.0,
-      "code": ""
-    },
-    "graco_oil": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "machines",
-      "rate": 0.0,
-      "code": ""
-    },
-    "hydraulic_oil_201": {
-      "stock": 1,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "machines",
-      "rate": 0.0,
-      "code": ""
-    },
-    "putty_mixer_machine_bosch_new": {
-      "stock": 4,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "machines",
-      "rate": 0.0,
-      "code": ""
-    },
-    "paint_spry_machine_graco": {
-      "stock": 1,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "machines",
-      "rate": 0.0,
-      "code": ""
-    },
-    "graco_fine_putty_machine": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "machines",
-      "rate": 0.0,
-      "code": ""
-    },
-    "sanding_machine": {
-      "stock": 8,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "machines",
-      "rate": 0.0,
-      "code": ""
+    "dnr highline": {
+      "location": " Old Mysuru Road, Okalipuram, Rajajinagar, Bengaluru, Karnataka 560021",
+      "site_manager": "Hemant,gouddapa",
+      "contact": "7411784758",
+      "project_type": "painting work",
+      "materials": {},
+      "tools and accessories": {},
+      "machines": {}
     }
-      },
-      
-
-  "tools and accessories": {
-    "helmets": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "dhothi": {
-      "stock": 3,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "safety_belts": {
-      "stock": 2,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "exterior_roller_9_inch": {
-      "stock": 6,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "interior_9_inch_roller": {
-      "stock": 6,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "trolley": {
-      "stock": 1,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "almera": {
-      "stock": 2,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "brush_4_inch": {
-      "stock": 2,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "scaffolding_table": {
-      "stock": 6,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "platforms": {
-      "stock": 12,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "wheels": {
-      "stock": 24,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "3_core_cable": {
-      "stock": 0,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "tape_dispenser": {
-      "stock": 1,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "led_light_200_w": {
-      "stock": 7,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "goggles": {
-      "stock": 10,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "led_stand_holder": {
-      "stock": 2,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "stool": {
-      "stock": 2,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "gloves": {
-      "stock": 3,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "groves": {
-      "stock": 3,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    },
-    "airless_paint_sprayer_xtaps850": {
-      "stock": 1,
-      "used": 0,
-      "unit": "pieces",
-      "min_stock": 0,
-      "category": "tools and accessories",
-      "rate": 0.0,
-      "code": ""
-    }
-  }
-}
-
-    
   },
-  "transactions": [
-
-  ],
+  "transactions": [],
   "system_info": {
     "version": "Multi-Site v4.1",
-    "last_updated": "2025-10-10 17:28:05.499317",
-    "total_sites": 3
+    "last_updated": "2025-11-03 00:53:07.245246",
+    "total_sites": 4
   }
 }
