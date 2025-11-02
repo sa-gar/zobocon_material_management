@@ -860,11 +860,11 @@
         }
       }
     },
-    "Karle Construction Site": {
-      "location": "Karle Project Location",
-      "site_manager": "Karle Site Manager",
+    "ADARSH PREMIA SITE": {
+      "location": "BHANASHANKARI",
+      "site_manager": "NAGESH",
       "contact": "+91-YYYYYYYYY",
-      "project_type": "Karle Construction Project",
+      "project_type": "PAINTING",
       "materials": {
         "JK_LevelMaxx_Plus_Putty": {
           "stock": 0,
